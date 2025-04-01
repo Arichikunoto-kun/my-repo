@@ -1,0 +1,15 @@
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfoInputs.cache
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfo.cs
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.sourcelink.json
+/home/ari/Git/my-repo/TicTacToe/bin/Debug/net9.0/TicTacToe
+/home/ari/Git/my-repo/TicTacToe/bin/Debug/net9.0/TicTacToe.deps.json
+/home/ari/Git/my-repo/TicTacToe/bin/Debug/net9.0/TicTacToe.runtimeconfig.json
+/home/ari/Git/my-repo/TicTacToe/bin/Debug/net9.0/TicTacToe.dll
+/home/ari/Git/my-repo/TicTacToe/bin/Debug/net9.0/TicTacToe.pdb
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.dll
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/refint/TicTacToe.dll
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.pdb
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/TicTacToe.genruntimeconfig.cache
+/home/ari/Git/my-repo/TicTacToe/obj/Debug/net9.0/ref/TicTacToe.dll
